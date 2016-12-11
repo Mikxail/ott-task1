@@ -1,0 +1,17 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.6.3",
+    "redis-simple-queue": "mikxail/redis-simple-queue",
+    "redis-singleton": "mikxail/redis-singleton",
+    "uuid": "^3.0.1"
+  }
+}
